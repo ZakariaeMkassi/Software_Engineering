@@ -1,0 +1,33 @@
+#h4_1{
+    font-family: "Times New Roman", Times, serif;
+}
+#h4_2{
+    font-family: "Times New Roman", Times, serif;
+}
+#image_student{
+    margin-right: 10%;
+    margin-left: 20vw;
+    margin-bottom: 50px;
+    border-radius: 20%;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#image_Unternehmer{
+    margin-right: 10%;
+    margin-left: 20vw;
+    margin-bottom: 50px;
+    border-radius: 15%;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#Student_Buttons{
+    margin-left: 2vw;
+    margin-top: -10px ;
+    background-color: dodgerblue;
+    color: white;
+}
+#Unternehmer_Buttons{
+    margin-left: 2vw;
+    margin-top: -20px ;
+    background-color: dodgerblue;
+    color: white;
+}
+
